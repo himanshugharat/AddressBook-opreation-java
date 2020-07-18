@@ -1,5 +1,3 @@
-package com.day17;
-
 public class Address {
 private String firstName;
 private String lastName;
