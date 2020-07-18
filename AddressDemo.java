@@ -1,5 +1,3 @@
-package com.day17;
-
 import java.util.Scanner;
 
 
